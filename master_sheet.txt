@@ -1,0 +1,83 @@
+DATA PLACE
+(working title) 
+------------------------
+
+
+Data
+————————————
+Are all located in the Data directory:
+
+
+—> consolidated_master is the master db, which we export to CSV from Numbers
+
+Put a COPY of it in Mac_Shared and transfer it to the Win machine. Mac always holds the master DB.
+
+Each line of consolidated_master will correspond to a single object and contains
+	** a unique ID number
+	** country name (common name)
+	** data: which data element this represents
+	** value: a value that corresponds to that data (units vary per dataset)
+		** Fossil Fuels and Metal Ores are in Tonnes (from the UN database)
+		** Carbon is carbon emissions in tons (I think) per capita
+
+	** mesh: the name of a mesh that corresponds to that data (ie we have about 6 different mesh types), which is an FBX file
+	** flag material: the name of a material in Unreal that we make manually from the flag texture
+	** lon, lat: longitude and latitude of the country’s capital
+	** x, y, z: x, y and z values for where the mesh with be spawned. This is translated via a Python script from lat, lon
+
+
+moshed_flags is the directory which contain all textures for the flags. 
+
+countries_data is the directory which contains individual datasets for each country that I have copied maually into the consolidated_master, they are:
+
+** UN_Exports_xyz_current: adaptation of the UN databases. We are just copying out the Metal Ores & Fossil Fuels
+	provided by the United Nations
+
+** carbonemissios: carbon emissions per capita
+	not sure where this was provided
+
+** active_military: % of active military
+	
+** population: absolute number of people
+
+
+
+
+Flag-moshing
+------------------------
+
+
+
+
+
+
+
+------------------------
+
+
+
+
+
+
+------------------------
+
+
+
+
+
+
+
+------------------------
+
+
+
+
+
+
+
+------------------------
+
+
+
+
+------------------------

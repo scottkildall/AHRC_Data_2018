@@ -1,0 +1,102 @@
+id,Country,material,export,mesh,tonnes,lon,lat,x,y,z
+42,Argentina,argentina_flag,Biomass,biomass_mesh,80395078,-58.381592,-34.603722,2757.413,-4478.886,-3604.608
+43,Argentina,argentina_flag,Coal,coal_mesh,8864,-58.381592,-34.603722,2757.413,-4478.886,-3604.608
+44,Argentina,argentina_flag,Crops,crops_mesh,79037799,-58.381592,-34.603722,2757.413,-4478.886,-3604.608
+45,Argentina,argentina_flag,Ferrous ores,default_mesh,2079009,-58.381592,-34.603722,2757.413,-4478.886,-3604.608
+46,Argentina,argentina_flag,Fossil Fuels,default_mesh,8864,-58.381592,-34.603722,2757.413,-4478.886,-3604.608
+47,Argentina,argentina_flag,Grazed biomass and fodder crops,default_mesh,61417,-58.381592,-34.603722,2757.413,-4478.886,-3604.608
+48,Argentina,argentina_flag,Metal ores,metal_ores_mesh,2844083,-58.381592,-34.603722,2757.413,-4478.886,-3604.608
+49,Argentina,argentina_flag,Non-ferrous ores,default_mesh,765075,-58.381592,-34.603722,2757.413,-4478.886,-3604.608
+50,Argentina,argentina_flag,Non-metallic minerals,default_mesh,1491701,-58.381592,-34.603722,2757.413,-4478.886,-3604.608
+51,Argentina,argentina_flag,Non-metallic minerals - construction dominant,default_mesh,1191915,-58.381592,-34.603722,2757.413,-4478.886,-3604.608
+52,Argentina,argentina_flag,Non-metallic minerals - industrial or agricultural dominant,default_mesh,299786,-58.381592,-34.603722,2757.413,-4478.886,-3604.608
+53,Argentina,argentina_flag,Wild catch and harvest,default_mesh,495811,-58.381592,-34.603722,2757.413,-4478.886,-3604.608
+54,Argentina,argentina_flag,Wood,wood_mesh,800051,-58.381592,-34.603722,2757.413,-4478.886,-3604.608
+65,Australia,australia_flag,Biomass,biomass_mesh,49691338,149.082977,-35.343784,-4471.898,2678.181,-3671.937
+66,Australia,australia_flag,Coal,coal_mesh,419512971,149.082977,-35.343784,-4471.898,2678.181,-3671.937
+67,Australia,australia_flag,Crop Residues,default_mesh,185081,149.082977,-35.343784,-4471.898,2678.181,-3671.937
+68,Australia,australia_flag,Crops,crops_mesh,38742320,149.082977,-35.343784,-4471.898,2678.181,-3671.937
+69,Australia,australia_flag,Ferrous ores,default_mesh,871474234,149.082977,-35.343784,-4471.898,2678.181,-3671.937
+70,Australia,australia_flag,Fossil Fuels,default_mesh,459702890,149.082977,-35.343784,-4471.898,2678.181,-3671.937
+71,Australia,australia_flag,Grazed biomass and fodder crops,default_mesh,64016,149.082977,-35.343784,-4471.898,2678.181,-3671.937
+72,Australia,australia_flag,Metal ores,metal_ores_mesh,932266294,149.082977,-35.343784,-4471.898,2678.181,-3671.937
+73,Australia,australia_flag,Natural Gas,default_mesh,27658768,149.082977,-35.343784,-4471.898,2678.181,-3671.937
+74,Australia,australia_flag,Non-ferrous ores,default_mesh,60792060,149.082977,-35.343784,-4471.898,2678.181,-3671.937
+75,Australia,australia_flag,Petroleum,petroleum_mesh,12531150,149.082977,-35.343784,-4471.898,2678.181,-3671.937
+76,Australia,australia_flag,Wild catch and harvest,default_mesh,31668,149.082977,-35.343784,-4471.898,2678.181,-3671.937
+77,Australia,australia_flag,Wood,wood_mesh,10668252,149.082977,-35.343784,-4471.898,2678.181,-3671.937
+246,Brazil,brazil_flag,Biomass,biomass_mesh,174584406,-46.62529,-23.533773,4021.254,-4256.118,-2533.022
+247,Brazil,brazil_flag,Coal,coal_mesh,58862,-46.62529,-23.533773,4021.254,-4256.118,-2533.022
+248,Brazil,brazil_flag,Crops,crops_mesh,141316933,-46.62529,-23.533773,4021.254,-4256.118,-2533.022
+249,Brazil,brazil_flag,Ferrous ores,default_mesh,403070174,-46.62529,-23.533773,4021.254,-4256.118,-2533.022
+250,Brazil,brazil_flag,Fossil Fuels,default_mesh,38551698,-46.62529,-23.533773,4021.254,-4256.118,-2533.022
+251,Brazil,brazil_flag,Grazed biomass and fodder crops,default_mesh,96,-46.62529,-23.533773,4021.254,-4256.118,-2533.022
+252,Brazil,brazil_flag,Metal ores,metal_ores_mesh,426753083,-46.62529,-23.533773,4021.254,-4256.118,-2533.022
+253,Brazil,brazil_flag,Non-ferrous ores,default_mesh,23682909,-46.62529,-23.533773,4021.254,-4256.118,-2533.022
+254,Brazil,brazil_flag,Non-metallic minerals,default_mesh,8523893,-46.62529,-23.533773,4021.254,-4256.118,-2533.022
+255,Brazil,brazil_flag,Non-metallic minerals - construction dominant,default_mesh,4242418,-46.62529,-23.533773,4021.254,-4256.118,-2533.022
+256,Brazil,brazil_flag,Non-metallic minerals - industrial or agricultural dominant,default_mesh,4281475,-46.62529,-23.533773,4021.254,-4256.118,-2533.022
+257,Brazil,brazil_flag,Petroleum,petroleum_mesh,38492836,-46.62529,-23.533773,4021.254,-4256.118,-2533.022
+258,Brazil,brazil_flag,Wild catch and harvest,default_mesh,27640,-46.62529,-23.533773,4021.254,-4256.118,-2533.022
+259,Brazil,brazil_flag,Wood,wood_mesh,33239737,-46.62529,-23.533773,4021.254,-4256.118,-2533.022
+382,China,china_flag,Biomass,biomass_mesh,48515690,116.363625,"39.913818,",-2177.119,4392.778,4073.859
+383,China,china_flag,Crop Residues,default_mesh,87588,116.363625,"39.913818,",-2177.119,4392.778,4073.859
+384,China,china_flag,Crops,crops_mesh,16595723,116.363625,"39.913818,",-2177.119,4392.778,4073.859
+385,China,china_flag,Ferrous ores,default_mesh,145634196,116.363625,"39.913818,",-2177.119,4392.778,4073.859
+386,China,china_flag,Fossil Fuels,default_mesh,40425847,116.363625,"39.913818,",-2177.119,4392.778,4073.859
+387,China,china_flag,Metal ores,metal_ores_mesh,149143464,116.363625,"39.913818,",-2177.119,4392.778,4073.859
+388,China,china_flag,Natural Gas,default_mesh,1904950,116.363625,"39.913818,",-2177.119,4392.778,4073.859
+389,China,china_flag,Non-ferrous ores,default_mesh,3509268,116.363625,"39.913818,",-2177.119,4392.778,4073.859
+390,China,china_flag,Non-metallic minerals,default_mesh,166139617,116.363625,"39.913818,",-2177.119,4392.778,4073.859
+391,China,china_flag,Non-metallic minerals - construction dominant,default_mesh,137612472,116.363625,"39.913818,",-2177.119,4392.778,4073.859
+392,China,china_flag,Non-metallic minerals - industrial or agricultural dominant,default_mesh,28527145,116.363625,"39.913818,",-2177.119,4392.778,4073.859
+393,China,china_flag,Petroleum,petroleum_mesh,38520896,116.363625,"39.913818,",-2177.119,4392.778,4073.859
+394,China,china_flag,Wild catch and harvest,default_mesh,4418760,116.363625,"39.913818,",-2177.119,4392.778,4073.859
+395,China,china_flag,Wood,wood_mesh,27413619,116.363625,"39.913818,",-2177.119,4392.778,4073.859
+794,India,india_flag,Biomass,biomass_mesh,53499899,77.216721,28.6448,1240.451,5467.25,3041.807
+795,India,india_flag,Coal,coal_mesh,768464,77.216721,28.6448,1240.451,5467.25,3041.807
+796,India,india_flag,Crop Residues,default_mesh,126,77.216721,28.6448,1240.451,5467.25,3041.807
+797,India,india_flag,Crops,crops_mesh,50613556,77.216721,28.6448,1240.451,5467.25,3041.807
+798,India,india_flag,Ferrous ores,default_mesh,28705591,77.216721,28.6448,1240.451,5467.25,3041.807
+799,India,india_flag,Fossil Fuels,default_mesh,80901850,77.216721,28.6448,1240.451,5467.25,3041.807
+800,India,india_flag,Grazed biomass and fodder crops,default_mesh,31,77.216721,28.6448,1240.451,5467.25,3041.807
+801,India,india_flag,Metal ores,metal_ores_mesh,35694608,77.216721,28.6448,1240.451,5467.25,3041.807
+802,India,india_flag,Non-ferrous ores,default_mesh,6989017,77.216721,28.6448,1240.451,5467.25,3041.807
+803,India,india_flag,Non-metallic minerals,default_mesh,33675003,77.216721,28.6448,1240.451,5467.25,3041.807
+804,India,india_flag,Non-metallic minerals - construction dominant,default_mesh,21452714,77.216721,28.6448,1240.451,5467.25,3041.807
+805,India,india_flag,Non-metallic minerals - industrial or agricultural dominant,default_mesh,12222289,77.216721,28.6448,1240.451,5467.25,3041.807
+806,India,india_flag,Petroleum,petroleum_mesh,80133386,77.216721,28.6448,1240.451,5467.25,3041.807
+807,India,india_flag,Wild catch and harvest,default_mesh,1091050,77.216721,28.6448,1240.451,5467.25,3041.807
+808,India,india_flag,Wood,wood_mesh,1795136,77.216721,28.6448,1240.451,5467.25,3041.807
+1528,Russian Federation,russia_flag,Biomass,biomass_mesh,63968335,37.618423,55.751244,2851.999,2197.796,5253.038
+1529,Russian Federation,russia_flag,Coal,coal_mesh,171542450,37.618423,55.751244,2851.999,2197.796,5253.038
+1530,Russian Federation,russia_flag,Crop Residues,default_mesh,575,37.618423,55.751244,2851.999,2197.796,5253.038
+1531,Russian Federation,russia_flag,Crops,crops_mesh,33344375,37.618423,55.751244,2851.999,2197.796,5253.038
+1532,Russian Federation,russia_flag,Ferrous ores,default_mesh,67008170,37.618423,55.751244,2851.999,2197.796,5253.038
+1533,Russian Federation,russia_flag,Fossil Fuels,default_mesh,683723486,37.618423,55.751244,2851.999,2197.796,5253.038
+1534,Russian Federation,russia_flag,Grazed biomass and fodder crops,default_mesh,1573,37.618423,55.751244,2851.999,2197.796,5253.038
+1535,Russian Federation,russia_flag,Metal ores,metal_ores_mesh,71574001,37.618423,55.751244,2851.999,2197.796,5253.038
+1536,Russian Federation,russia_flag,Natural Gas,default_mesh,142390211,37.618423,55.751244,2851.999,2197.796,5253.038
+1537,Russian Federation,russia_flag,Non-ferrous ores,default_mesh,4565831,37.618423,55.751244,2851.999,2197.796,5253.038
+1538,Russian Federation,russia_flag,Non-metallic minerals,default_mesh,31856116,37.618423,55.751244,2851.999,2197.796,5253.038
+1539,Russian Federation,russia_flag,Non-metallic minerals - construction dominant,default_mesh,4341035,37.618423,55.751244,2851.999,2197.796,5253.038
+1540,Russian Federation,russia_flag,Non-metallic minerals - industrial or agricultural dominant,default_mesh,27515081,37.618423,55.751244,2851.999,2197.796,5253.038
+1541,Russian Federation,russia_flag,Petroleum,petroleum_mesh,369790825,37.618423,55.751244,2851.999,2197.796,5253.038
+1542,Russian Federation,russia_flag,Wild catch and harvest,default_mesh,2027496,37.618423,55.751244,2851.999,2197.796,5253.038
+1543,Russian Federation,russia_flag,Wood,wood_mesh,28594316,37.618423,55.751244,2851.999,2197.796,5253.038
+1954,United States of America,us_flag,Biomass,biomass_mesh,223139660,-77.009003,38.889931,1118.347,-4847.569,3985.953
+1955,United States of America,us_flag,Coal,coal_mesh,77231336,-77.009003,38.889931,1118.347,-4847.569,3985.953
+1956,United States of America,us_flag,Crop Residues,default_mesh,178170,-77.009003,38.889931,1118.347,-4847.569,3985.953
+1957,United States of America,us_flag,Crops,crops_mesh,138909281,-77.009003,38.889931,1118.347,-4847.569,3985.953
+1958,United States of America,us_flag,Ferrous ores,default_mesh,60841531,-77.009003,38.889931,1118.347,-4847.569,3985.953
+1959,United States of America,us_flag,Fossil Fuels,default_mesh,360855012,-77.009003,38.889931,1118.347,-4847.569,3985.953
+1960,United States of America,us_flag,Grazed biomass and fodder crops,default_mesh,5109938,-77.009003,38.889931,1118.347,-4847.569,3985.953
+1961,United States of America,us_flag,Metal ores,metal_ores_mesh,69994676,-77.009003,38.889931,1118.347,-4847.569,3985.953
+1962,United States of America,us_flag,Natural Gas,default_mesh,38552755,-77.009003,38.889931,1118.347,-4847.569,3985.953
+1963,United States of America,us_flag,Non-ferrous ores,default_mesh,9153145,-77.009003,38.889931,1118.347,-4847.569,3985.953
+1964,United States of America,us_flag,Non-metallic minerals,default_mesh,19412662,-77.009003,38.889931,1118.347,-4847.569,3985.953
+1965,United States of America,us_flag,Non-metallic minerals - construction dominant,default_mesh,4455064,-77.009003,38.889931,1118.347,-4847.569,3985.953
+1966,United States of America,us_flag,Non-metallic minerals - industrial or agricultural dominant,default_mesh,14957597,-77.009003,38.889931,1118.347,-4847.569,3985.953
+1967,United States of America,us_flag,Petroleum,petroleum_mesh,245070921,-77.009003,38.889931,1118.347,-4847.569,3985.953
+1968,United States of America,us_flag,Wild catch and harvest,default_mesh,1851747,-77.009003,38.889931,1118.347,-4847.569,3985.953
+1969,United States of America,us_flag,Wood,wood_mesh,77090524,-77.009003,38.889931,1118.347,-4847.569,3985.953
