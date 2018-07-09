@@ -23,7 +23,8 @@ User Blender to unwrap textures, steps are:
   
 In Unreal, import the mesh
 
-1. FBX Import Options:
+1. Go to Flag Meshs folder, click on the Import Button (not the Import into Level), Choose the "Import" button at the dialog,
+2.FBX Import Options:
 
 	set Uniform Scale to 100
 
@@ -54,3 +55,11 @@ Has instance variables:
 	Country = country 
 	Amount: this corresponds to the Value field
 	FlagMaterial: the flag material, inside FLAG_MATERIALS
+
+	
+##Next to do
+####Immigration database, can we add this?
+####Clean code, expunge old remnanats and document code model better
+####Scaling for population and other variables
+####Flying controls to be improved, right always does nav, left to accelerate
+####Pointer-data acquisition
