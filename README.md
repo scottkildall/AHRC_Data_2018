@@ -56,10 +56,21 @@ Has instance variables:
 	Amount: this corresponds to the Value field
 	FlagMaterial: the flag material, inside FLAG_MATERIALS
 
+
+###Datascape_VRPawn
+	LineDraw function needs updating, gas Cast To BP_FinancialDataSpawner in it
+	Datasca[e_VRPawn->SetSpeed has GetHandMesh function in it, which we can optimize out
 	
+
+##Other
+####Collisions, go to static mesh editor and do an Auto Convex Collision
+
+	
+
 ##Next to do
 ####Immigration database, can we add this?
 ####Clean code, expunge old remnanats and document code model better
+####Optimization with flying speed
 ####Scaling for population and other variables
 ####Flying controls to be improved, right always does nav, left to accelerate
 ####Pointer-data acquisition
